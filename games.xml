@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<games>
+<book>
+  <title>Falling Lovers</title>
+  <icon>falling_lovers</icon>
+  <link>https://qkygames.github.io/falling-lovers/</link>
+  <des>Falling Lovers is an interesting game for skills.
+  Rotate the blocks that holds the player and drop the boyfriends to reach the love.
+  Use the mouse or you finger to rotate the Block, you have to send the boyfriends to the right place.
+  Have fun!</des>
+</book>
+
+<book>
+  <title>Pocket Golf</title>
+  <icon>pocket_golf</icon>
+  <link>https://qkygames.github.io/pocket-golf/</link>
+  <des>Pokcet Golf is a game in which you need to score a golf ball in a hole on various game levels. 
+Along the way you will meet thorns lasers and blocked routes that you need to open. 
+On three tries hit the ball into the goal and avoid the deadly traps.</des>
+</book>
+
+<book>
+  <title>Kill the Dummy</title>
+  <icon>kill_the_dummy</icon>
+  <link>https://qkygames.github.io/kill-the-dummy/</link>
+  <des>Unsheathe your saw and start the juicy carnage with the classic game mode "cut and destroy". 
+Experience the thrill of setting a new high score in the endless Classic mode as you focus on dodging bombs and slicing massive dummies with the help of the powerfull Saws.</des>
+</book>
+
+<book>
+  <title>Cut and Dunk</title>
+  <icon>cut_and_dunk</icon>
+  <link>https://qkygames.github.io/cut_and_dunk/</link>
+  <des>Use your finger to cut the rope and release the ball. 
+Put all the balls in the hoop to score and complete a level! 
+To basket all the balls, you need to cut the rope, find the right time to slice or hit.</des>
+</book>
+
+</games>
