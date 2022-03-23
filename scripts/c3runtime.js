@@ -3934,7 +3934,12 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Acts.Wait,
 		C3.Plugins.Button.Acts.SetCSSStyle,
 		C3.Plugins.Text.Acts.SetText,
-		C3.Plugins.iframe.Acts.NavigateURL
+		C3.Plugins.iframe.Acts.NavigateURL,
+		C3.Plugins.iframe.Acts.SetCSSStyle,
+		C3.Plugins.iframe.Acts.SetPos,
+		C3.Plugins.System.Cnds.Compare,
+		C3.Plugins.System.Exps.viewportheight,
+		C3.Plugins.iframe.Acts.SetSize
 	];
 };
 self.C3_JsPropNameTable = [
@@ -3942,10 +3947,38 @@ self.C3_JsPropNameTable = [
 	{pocket_golf: 0},
 	{cut_and_dunk: 0},
 	{kill_the_dummy: 0},
+	{gravity_soccer_3: 0},
+	{neon_war: 0},
+	{rotated_cups: 0},
+	{jump_color: 0},
+	{draw_racing: 0},
+	{power_light: 0},
+	{bubble_pop: 0},
+	{cannon_strike: 0},
+	{draw_parking: 0},
+	{rope_master: 0},
+	{xtreme_racing: 0},
+	{tap_tap_shots: 0},
+	{ragdoll_fall: 0},
+	{smiling_glass: 0},
+	{ball_runner: 0},
+	{chicken_climbing: 0},
+	{smash_color: 0},
+	{tap_tap_colors: 0},
+	{fast_balls: 0},
+	{snake_rush: 0},
+	{spin_soccer_3: 0},
+	{breacking_blocks: 0},
+	{smiling_glass_2: 0},
+	{pixel_dash: 0},
+	{cocktail_brain: 0},
+	{tap_tap_goal: 0},
+	{save_the_cowboy_2: 0},
 	{nIndex: 0},
 	{titulo: 0},
 	{link: 0},
 	{descripcion: 0},
+	{orientacion: 0},
 	{game_conteiner: 0},
 	{Touch: 0},
 	{Browser: 0},
@@ -3963,6 +3996,8 @@ self.C3_JsPropNameTable = [
 	{Button: 0},
 	{btnPlayGame: 0},
 	{Text: 0},
+	{iframe_vertical: 0},
+	{iframe_horizontal: 0},
 	{Iconos: 0},
 	{TouchPanID: 0},
 	{TouchLastX: 0},
@@ -4098,6 +4133,10 @@ self.C3_ExpressionFuncs = [
 		},
 		p => {
 			const n0 = p._GetNode(0);
+			return () => n0.ExpObject("orientacion/text()");
+		},
+		p => {
+			const n0 = p._GetNode(0);
 			return () => (n0.ExpObject() - 10);
 		},
 		() => "TOUCH and DRAG",
@@ -4152,6 +4191,7 @@ self.C3_ExpressionFuncs = [
 			return () => (f0("Main") - (n1.ExpObject() / 2));
 		},
 		() => -9999,
+		() => 0.2,
 		() => 0.01,
 		() => "background-color",
 		() => "rgb(255, 203, 5)",
@@ -4164,7 +4204,14 @@ self.C3_ExpressionFuncs = [
 		() => "color",
 		() => "white",
 		() => "font",
-		() => "21px Arial"
+		() => "21px Arial",
+		() => 90000,
+		() => "vertical",
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			return () => f0(0);
+		},
+		() => "horizontal"
 ];
 
 

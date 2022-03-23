@@ -5,6 +5,7 @@
   <title>Falling Lovers</title>
   <icon>falling_lovers</icon>
   <link>https://qkygames.github.io/falling-lovers/</link>
+  <orientacion>vertical</orientacion>
   <des>Falling Lovers is an interesting game for skills.
   Rotate the blocks that holds the player and drop the boyfriends to reach the love.
   Use the mouse or you finger to rotate the Block, you have to send the boyfriends to the right place.
@@ -15,6 +16,7 @@
   <title>Pocket Golf</title>
   <icon>pocket_golf</icon>
   <link>https://qkygames.github.io/pocket-golf/</link>
+  <orientacion>vertical</orientacion>
   <des>Pokcet Golf is a game in which you need to score a golf ball in a hole on various game levels. 
 Along the way you will meet thorns lasers and blocked routes that you need to open. 
 On three tries hit the ball into the goal and avoid the deadly traps.</des>
@@ -24,6 +26,7 @@ On three tries hit the ball into the goal and avoid the deadly traps.</des>
   <title>Kill the Dummy</title>
   <icon>kill_the_dummy</icon>
   <link>https://qkygames.github.io/kill-the-dummy/</link>
+  <orientacion>vertical</orientacion>
   <des>Unsheathe your saw and start the juicy carnage with the classic game mode "cut and destroy". 
 Experience the thrill of setting a new high score in the endless Classic mode as you focus on dodging bombs and slicing massive dummies with the help of the powerfull Saws.</des>
 </book>
@@ -32,9 +35,277 @@ Experience the thrill of setting a new high score in the endless Classic mode as
   <title>Cut and Dunk</title>
   <icon>cut_and_dunk</icon>
   <link>https://qkygames.github.io/cut-and-dunk/</link>
+  <orientacion>vertical</orientacion>
   <des>Use your finger to cut the rope and release the ball. 
 Put all the balls in the hoop to score and complete a level! 
 To basket all the balls, you need to cut the rope, find the right time to slice or hit.</des>
+</book>
+
+<book>
+  <title>Gravity Soccer 3</title>
+  <icon>gravity_soccer_3</icon>
+  <link>https://qkygames.github.io/gravity-soccer-3/</link>
+  <orientacion>horizontal</orientacion>
+  <des>Solve all Gravity Soccer levels using logic.
+  Destroy blocks and manage to get the ball into the net, trying to get all stars.</des>
+</book>
+
+<book>
+  <title>Neon War</title>
+  <icon>neon_war</icon>
+  <link>https://qkygames.github.io/neon-war/</link>
+  <orientacion>vertical</orientacion>
+  <des>Neon War is a fun arcade/shooter game. 
+Touch and drag to move the cannon and destroy the orbs.
+Each one has a number on it that indicates how many times it must be hit before it explodes.</des>
+</book>
+
+<book>
+  <title>Rotated Cups</title>
+  <icon>rotated_cups</icon>
+  <link>https://qkygames.github.io/rotate-cups/</link>
+  <orientacion>vertical</orientacion>
+  <des>Rotated Cups is an interesting game for skills.
+  Rotate the cup that holds the ball and drop the ball exactly into the designated bucket. 
+Use the mouse or you finger to rotate the Cup, you have to send the ball to the right place.
+Have fun!</des>
+</book>
+
+<book>
+  <title>Jump Color</title>
+  <icon>jump_color</icon>
+  <link>https://qkygames.github.io/jump-color/</link>
+  <orientacion>vertical</orientacion>
+  <des>Bounce the ball on left or right wall and don't let to fall down. Collect the stars to get extra points and increase your highscore! </des>
+</book>
+
+<book>
+  <title>Draw Racing</title>
+  <icon>draw_racing</icon>
+  <link>https://qkygames.github.io/draw-racing/</link>
+  <orientacion>vertical</orientacion>
+  <des>Complete each level by painting all the paths.
+Start drawing from the car to make it run. Be careful, don't let the car collide with invisible obstacles, memorize the correct road</des>
+</book>
+
+<book>
+  <title>Power Light</title>
+  <icon>power_light</icon>
+  <link>https://qkygames.github.io/power-light/</link>
+  <orientacion>vertical</orientacion>
+  <des>Fix all unconnected wires which can transfer power to the bulb from the battery and complete all the puzzles to have fun.</des>
+</book>
+
+<book>
+  <title>Bubble Pop</title>
+  <icon>bubble_pop</icon>
+  <link>https://qkygames.github.io/bubble-pop-2/</link>
+  <orientacion>vertical</orientacion>
+  <des>Bubble Pop is a cute puzzle game!
+  Connect 3 or more similar Bubbles to reach the level objectives within the time limit.
+  Get coins to buy Bubble packs and buy power-ups. Match many bubbles as you can before the timer runs out.
+You can match different numbers of bubbles to unlock new powers into the game, these power can help you to complete the level faster.
+Improve your skills to complete each level and collect coins in the special mode.</des>
+</book>
+
+<book>
+  <title>Cannon Strike</title>
+  <icon>cannon_strike</icon>
+  <link>https://qkygames.github.io/cannon-strike/</link>
+  <orientacion>vertical</orientacion>
+  <des>Fill all the buckets with balls to complete a level. 
+Use your finger to move various objects to change the direction of the balls you shoot.
+Aim smart!</des>
+</book>
+
+<book>
+  <title>Draw Parking</title>
+  <icon>draw_parking</icon>
+  <link>https://qkygames.github.io/draw-parking/</link>
+  <orientacion>vertical</orientacion>
+  <des>Get ready for exciting parking game.
+Swipe to park cars and avoid car collision. Park your cars without colliding with each other. 
+Amazing puzzle game with exciting game play. Find parking space and park cars.</des>
+</book>
+
+<book>
+  <title>Rope Master</title>
+  <icon>rope_master</icon>
+  <link>https://qkygames.github.io/rope-master-qky/</link>
+  <orientacion>vertical</orientacion>
+  <des>Use your finger to cut the rope and release the ball.
+  Smash all cups to complete a level! To break all the cups, you need to cut the rope, find the right time to slice or hit, similar to the classic game Cut the Rope.</des>
+</book>
+
+<book>
+  <title>Xtreme Racing</title>
+  <icon>xtreme_racing</icon>
+  <link>https://qkygames.github.io/xtreme-racing/</link>
+  <orientacion>vertical</orientacion>
+  <des>Do you like to dodge between narrow canyons with a fast first person x-plane racer?
+Xtreme Racing allows you to fly through an endless abstract world of obstacles.
+Collect extra score each race and increase you total score.</des>
+</book>
+
+<book>
+  <title>Tap Tap Shots</title>
+  <icon>tap_tap_shots</icon>
+  <link>https://qkygames.github.io/tap-tap-shots-1/</link>
+  <orientacion>vertical</orientacion>
+  <des>Get on fire in this hot, epic and bouncy basketball game! 
+Try to sink your balls into the net as quickly as possible, once the timer expires it is game over.
+Score as many point as you can before the time runs out!</des>
+</book>
+
+<book>
+  <title>Ragdoll Fall</title>
+  <icon>ragdoll_fall</icon>
+  <link>https://qkygames.github.io/ragdoll-rall/</link>
+  <orientacion>vertical</orientacion>
+  <des>Arcade game to test your reflex and improve it.
+  Jump on platforms to get points, avoid saws and use a quick drop to avoid missing another platform. 
+Have a nice game!</des>
+</book>
+
+<book>
+  <title>Smiling Glass</title>
+  <icon>smiling_glass</icon>
+  <link>https://qkygames.github.io/smiling-glass/</link>
+  <orientacion>vertical</orientacion>
+  <des>Smilling Glass – is a game in which you need to fill a glass with water.
+  Fill the glass with water can be very dificult, you need avoid obstacles, spikes and more. 
+FIll the specified amount of water in the glass to win the level.</des>
+</book>
+
+<book>
+  <title>Ball Runner</title>
+  <icon>ball_runner</icon>
+  <link>https://qkygames.github.io/ball-runner/</link>
+  <orientacion>vertical</orientacion>
+  <des>Ball Running is the ultimate running game that will put your skills to the test.
+  The farther you go, the faster your ball travels.
+Avoid obstacles and purple blocks. Always be on track to get a high score!
+So fast!! Can you handle it??</des>
+</book>
+
+<book>
+  <title>Chicken Climbing</title>
+  <icon>chicken_climbing</icon>
+  <link>https://qkygames.github.io/chicken-climbing/</link>
+  <orientacion>vertical</orientacion>
+  <des>Chicken Climbing is an action and arcade game, very easy to grasp for everyone.
+  How many times can you jump without hitting with angry chickens, danger spikes or fast missiles ?
+  Tap to jump. - Double tap, double jump. - Challenging game, but very easy to play.
+  Jump as high as you can and achieve a high score and challenge your friends.</des>
+</book>
+
+<book>
+  <title>Smash Color</title>
+  <icon>smash_color</icon>
+  <link>https://qkygames.github.io/smash-color/</link>
+  <orientacion>vertical</orientacion>
+  <des>Smash Color is most engaging game where you need to get score hopping on same colored bricks.
+Be carful the color can change in the road!
+Show your hopping skills, concentration power and one finger touch control.
+This color jump game is controlled by only one finger or thumb. slide object on screen and make them hop on correct color brick to pass the level.</des>
+</book>
+
+<book>
+  <title>Tap Tap Colors</title>
+  <icon>tap_tap_colors</icon>
+  <link>https://qkygames.github.io/tap-tap-colors/</link>
+  <orientacion>vertical</orientacion>
+  <des>Tap Tap Colors is an flappy shooter gameplay with most simple tap gameplay.
+Collect Power Ups like "3 Bullets", "Slow Speed" or "1 Score" to make your work more easy.</des>
+</book>
+
+<book>
+  <title>Fast Balls</title>
+  <icon>fast_balls</icon>
+  <link>https://qkygames.github.io/fast-balls/</link>
+  <orientacion>vertical</orientacion>
+  <des>Fast Balls is a fun 3D online game with a cannon color balls shooting  to destroy the colorful stack tower.
+Hold to make your dot fire forward, and be careful from moving obstacles.
+In Fast Balls your goal is to destroy all towers to move to the next levels.</des>
+</book>
+
+<book>
+  <title>Snake Rush</title>
+  <icon>snake_rush</icon>
+  <link>https://qkygames.github.io/snake-rush/</link>
+  <orientacion>vertical</orientacion>
+  <des>The Snake is in an infinite race and the red Snake intends get all the score possible. 
+Very easy to play but very hard to hit the high scores.
+It’s time to step into the world of snake adventure and experience the most enjoyable and entertaining journey of all time. </des>
+</book>
+
+<book>
+  <title>Spin Soccer 3</title>
+  <icon>spin_soccer_3</icon>
+  <link>https://qkygames.github.io/spin-soccer-3/</link>
+  <orientacion>horizontal</orientacion>
+  <des>Spin Soccer 3 is a puzzle/physics game in which you rotate the platforms,  avoid spikes and get the ball to the goal soccer.
+Complete all levels in this new version and become in the best of Spin Soccer, be carful is not an easy.</des>
+</book>
+
+<book>
+  <title>Breacking Blocks</title>
+  <icon>breacking_blocks</icon>
+  <link>https://qkygames.github.io/breacking-blocks/</link>
+  <orientacion>vertical</orientacion>
+  <des>Breacking Blocks is a fun match-three game.
+  In most match-three games you are flipping a series of jewels or gems in a grid and trying to line them all up in order to make them disappear. But Breacking Blocks is a different kind of game,  you'll be tasked with the responsibility of lining up three blocks of a certain color in a row in order to make them disappear.
+  Instead of flipping jewels, you will be positioning a series of falling blocks.</des>
+</book>
+
+<book>
+  <title>Smiling Glass 2</title>
+  <icon>smiling_glass_2</icon>
+  <link>https://qkygames.github.io/smiling-glass-2/</link>
+  <orientacion>vertical</orientacion>
+  <des>Smilling Glass 2 – is a game in which you need to fill a glass with water.
+  Fill the glass with water can be very dificult, you need avoid obstacles, spikes and more.
+FIll the specified amount of water in the glass to win the level.</des>
+</book>
+
+<book>
+  <title>Pixel Dash</title>
+  <icon>pixel_dash</icon>
+  <link>https://qkygames.github.io/pixel-dash/</link>
+  <orientacion>horizontal</orientacion>
+  <des>Pixel Dash is an arcade platform adventure game. 
+Help to "Pixel" get pass all the challenging platform obstacles. 
+Use the dash power to move past obstacles and reach the target point. </des>
+</book>
+
+<book>
+  <title>Cocktail Brain</title>
+  <icon>cocktail_brain</icon>
+  <link>https://qkygames.github.io/cocktail-brain-qkygames/</link>
+  <orientacion>vertical</orientacion>
+  <des>Cocktail Brain - Fun 2D game for all players, in this game you need to fill a variety of glasses with orange juice but you need draw a line to move the juice to the glass.
+Start drawing and delivery the cocktails!</des>
+</book>
+
+<book>
+  <title>Tap Tap Goals</title>
+  <icon>tap_tap_goal</icon>
+  <link>https://qkygames.github.io/tap-tap-goals/</link>
+  <orientacion>horizontal</orientacion>
+  <des>Get on fire in this hot, epic and bouncy soccer game! 
+Try to score your balls into the goal posts as quickly as possible, once the timer expires it is game over. </des>
+</book>
+
+<book>
+  <title>Save the Cowboy 2</title>
+  <icon>save_the_cowboy_2</icon>
+  <link>https://qkygames.github.io/save-the-cowboy-2/</link>
+  <orientacion>horizontal</orientacion>
+  <des>All the cowboys are caught by the local people and they all are hanged to death. 
+Your aim is to help all the cowboys and save them by cutting the hanging thread above them to save from death. 
+You are with excellent bow and arrow. Aim to the thread and be careful, do not shoot cowboy. 
+All the cowboys are having limited time to survive. Help and save them all before the timer runs out. 
+Aim exactly to the thread. </des>
 </book>
 
 </games>
